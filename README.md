@@ -172,4 +172,3 @@ git stash apply # tras o ultimo arquivo arquivado e mantem na pilha
 | style          | Realiza mudanças na aparência, sem alterar a funcionalidade.          |
 | refactor       | Realiza mudanças no código que não alteram a funcionalidade.          |
 | test           | Adiciona ou modifica testes no projeto.                               |
-# git_github
